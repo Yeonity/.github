@@ -1,4 +1,4 @@
-# AM-List Bêta
+# Yeonity Bêta
 
 Créer ta bibliothèque d'animes !
 
