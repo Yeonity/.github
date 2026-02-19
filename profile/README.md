@@ -1,4 +1,4 @@
-# Yeonity Bêta
+# Yeonity
 
 Seamless. Everywhere. Secure.
 
