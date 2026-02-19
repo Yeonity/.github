@@ -1,6 +1,6 @@
 # Yeonity Bêta
 
-Créer ta bibliothèque d'animes !
+Seamless. Everywhere. Secure.
 
 <!--
 
